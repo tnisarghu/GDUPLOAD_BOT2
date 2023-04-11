@@ -5,8 +5,8 @@ class config:
     DATABASE_URL = "postgres://lcptrfqu:dn7RTW_gka9gO757fCSJRc0C_qTKc3bu@tiny.db.elephantsql.com/lcptrfqu"
     SUDO_USERS = "" # Sepearted by space.
     DOWNLOAD_DIRECTORY = "./downloads/"
-    G_DRIVE_CLIENT_ID = "288612915605-30o15r5tdfd45fi2oe7ve71aa4sfobeq.apps.googleusercontent.com"
-    G_DRIVE_CLIENT_SECRET = "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"
+    G_DRIVE_CLIENT_ID = "387963638846-751gnm7opm45r26ottr8aq659qhc6877.apps.googleusercontent.com"
+    G_DRIVE_CLIENT_SECRET = "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"
     SUPPORT_CHAT_LINK = ""
 
 
